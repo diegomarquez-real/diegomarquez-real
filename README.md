@@ -14,6 +14,7 @@ I'm a Full Stack Developer with a primary focus on .NET! Being a man of few word
 ---
 
 ### Technologies ⚙️
+
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" style="padding: 0 10px 0 0;" />      
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" style="padding: 0 10px 0 0;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" style="padding: 0 10px 0 0;" />
@@ -25,6 +26,13 @@ I'm a Full Stack Developer with a primary focus on .NET! Being a man of few word
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50" style="padding: 0 10px 0 0;" />         
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="50" style="padding: 0 10px 0 0;" />      
 <br />
+<br />
+<br />
 
+#
+
+### Stats 📊
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomarquez-real&show_icons=true&theme=dark)
+
+#
