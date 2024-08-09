@@ -1,4 +1,6 @@
-## Hi there 👋
+# 🤓 Diego Marquez
+
+**`Software Engineer`**
 
 <!--
 **diegomarquez-real/diegomarquez-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
